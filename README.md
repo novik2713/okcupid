@@ -15,4 +15,4 @@ of user segments with similar preferences and traits.  :revolving_hearts: Furthe
 I undertook this project as part of my coursework at Redi School of Digital Integration, where I am continuously honing my skills in data analysis and machine learning. 
 
 Feel free to explore the repository and provide any feedback or suggestions. 
-Your insights are highly appreciated.:purple_heart:
+Your insights are highly appreciated. :purple_heart:
